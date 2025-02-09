@@ -1,1 +1,1 @@
-# java-internship
+# java-miniproject
